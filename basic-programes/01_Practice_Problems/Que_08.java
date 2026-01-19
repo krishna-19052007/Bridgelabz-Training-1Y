@@ -3,6 +3,7 @@ public class Demojava
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Welcome to Bridgelabz!");
+		double base=5,power=3;
+		System.out.println(Math.pow(base,power));
 	}
 }

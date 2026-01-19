@@ -3,6 +3,7 @@ public class Demojava
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Welcome to Bridgelabz!");
+		int Principal=1000,Rate=10,Time=12;
+		System.out.println(Principal*Rate*Time/100);
 	}
 }

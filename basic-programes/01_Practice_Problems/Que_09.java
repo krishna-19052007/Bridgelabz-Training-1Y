@@ -3,6 +3,7 @@ public class Demojava
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Welcome to Bridgelabz!");
+		int a=3,b=5,c=7;
+		System.out.println((a+b+c)/3);
 	}
 }

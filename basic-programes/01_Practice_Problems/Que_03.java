@@ -3,6 +3,7 @@ public class Demojava
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Welcome to Bridgelabz!");
+		int Celsius=25;
+		System.out.println((Celsius*9/5)+32);
 	}
 }
